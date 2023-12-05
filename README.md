@@ -1,4 +1,5 @@
-# ShowDetails
+# ShowDetails![Screenshot](https://github.com/MoHaMeD-MaHMoD/User-Details-With-Observer/assets/58725732/7e889207-b765-4cae-959d-b46b9a6302e5)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
 
